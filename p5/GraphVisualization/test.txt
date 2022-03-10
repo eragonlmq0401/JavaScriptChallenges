@@ -1,0 +1,7 @@
+Nodes
+n0 0 0
+n1 1 2
+n2 2 3
+# Edges
+e1 n0 n1 
+e2 n1 n2 
